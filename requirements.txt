@@ -1,0 +1,8 @@
+pyyaml
+scrapy
+scrapy-splash
+bs4
+django
+nltk
+numpy
+urllib3[secure]
